@@ -24,6 +24,12 @@ bool CEditorWorld::Init()
 	LoadSound();
 	CreateUI();
 
+	mWorldAssetManager->LoadTexture("dirt", TEXT("Tile/dirt.png"));
+	mWorldAssetManager->LoadTexture("snow", TEXT("Tile/snow.png"));
+	mWorldAssetManager->LoadTexture("scenery", TEXT("Tile/scenery.png"));
+	mWorldAssetManager->LoadTexture("girder", TEXT("Tile/girder.png"));
+	mWorldAssetManager->LoadTexture("cement", TEXT("Tile/cement.png"));
+
 	mPlayer = CreateGameObject<CEditorPlayer>("Player");
 
 	return true;
