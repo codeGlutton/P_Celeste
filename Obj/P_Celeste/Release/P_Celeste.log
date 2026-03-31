@@ -1,0 +1,840 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 디렉터리가 슬래시로 끝나지 않습니다. Intermediate 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  0개 파일이 복사되었습니다.
+  Pch.cpp
+E:\VSProj\P_Celeste\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Pch.cpp'을(를) 컴파일하는 중)
+  
+  AnimState.cpp
+  AnimStateMachine.cpp
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Animation/AnimStateMachine.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Animation/AnimStateMachine.cpp'을(를) 컴파일하는 중)
+  
+  AnimTransition.cpp
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Animation/AnimTransition.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Animation/AnimTransition.cpp'을(를) 컴파일하는 중)
+  
+  HairMetaData.cpp
+  Character.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/Character.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/Character.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Character.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Character.cpp'을(를) 컴파일하는 중)
+  
+  Bird.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/Bird.cpp'을(를) 컴파일하는 중)
+  
+  OldLady.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Character\NPC\OldLady.cpp(48,91): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Character\NPC\OldLady.cpp(48,81): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/NPC/OldLady.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Character\Player\Player.cpp(88,83): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Character\Player\Player.cpp(88,73): warning C4244: '인수': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Character\Player\Player.cpp(1246,8): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  (소스 파일 '/Character/Player/Player.cpp'을(를) 컴파일하는 중)
+  
+  TutorialPlayer.cpp
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/TutorialPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/TutorialPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/TutorialPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Character/Player/TutorialPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/Player/TutorialPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Character/Player/TutorialPlayer.cpp'을(를) 컴파일하는 중)
+  
+  CharacterMovementComponent.cpp
+  CutsceenCameraComponent.cpp
+  DamageBoxCollider.cpp
+  HairMeshComponent.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/HairMeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/HairMeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/HairMeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Component/HairMeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Component/HairMeshComponent.cpp'을(를) 컴파일하는 중)
+  
+  SpringArmComponent.cpp
+  TileMapCameraComponent.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/TileMapCameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/TileMapCameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Component/TileMapCameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Component/TileMapCameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Component/TileMapCameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Component/TileMapCameraComponent.cpp'을(를) 컴파일하는 중)
+  
+  WorldTimeChangableBoxCollider.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/WorldTimeChangableBoxCollider.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Component/WorldTimeChangableBoxCollider.cpp'을(를) 컴파일하는 중)
+  
+  Conversable.cpp
+  DialogueData.cpp
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dialogue/DialogueData.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dialogue/DialogueData.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dialogue/DialogueData.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Dialogue/DialogueData.cpp'을(를) 컴파일하는 중)
+  
+  EditorPlayer.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Editor/EditorPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Editor/EditorPlayer.cpp'을(를) 컴파일하는 중)
+  
+  HairEditorObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Editor/HairEditorObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Editor/HairEditorObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Editor/HairEditorObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Editor/HairEditorObject.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  TileEditorObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Editor/TileEditorObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Editor\TileEditorObject.cpp(212,72): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Editor/TileEditorObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Editor\TileEditorObject.cpp(212,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Editor/TileEditorObject.cpp'을(를) 컴파일하는 중)
+  
+  InteractableObject.cpp
+  PlayerInteractableObject.cpp
+  CelesteRewardData.cpp
+E:\VSProj\P_Celeste\P_Celeste\GameObject\Item\CelesteRewardData.cpp(6,14): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/CelesteRewardData.cpp'을(를) 컴파일하는 중)
+  
+  InstantItemObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/InstantItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/InstantItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/InstantItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/InstantItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/InstantItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/InstantItemObject.cpp'을(를) 컴파일하는 중)
+  
+  ItemObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/ItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/ItemObject.cpp'을(를) 컴파일하는 중)
+  
+  LazyItemObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/LazyItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/LazyItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/LazyItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/LazyItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/LazyItemObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/LazyItemObject.cpp'을(를) 컴파일하는 중)
+  
+  StrawberryObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Item/StrawberryObject.cpp'을(를) 컴파일하는 중)
+  
+  DropMapObjectBase.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/DropMapObjectBase.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/DropMapObjectBase.cpp'을(를) 컴파일하는 중)
+  
+  DynamicMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/DynamicMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/DynamicMapObject.cpp'을(를) 컴파일하는 중)
+  
+  OneTimeDropMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/OneTimeDropMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/OneTimeDropMapObject.cpp'을(를) 컴파일하는 중)
+  
+  SpringMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+  TriggerOneTimeDropMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/TriggerOneTimeDropMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Mesh/TriggerOneTimeDropMapObject.cpp'을(를) 컴파일하는 중)
+  
+  DynamicTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/DynamicTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/DynamicTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  LayeredTileMapObject.cpp
+  MapFactoryObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+  MapInfo.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/MapInfo.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/MapInfo.cpp'을(를) 컴파일하는 중)
+  
+  DestructableTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/DestructableTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/DestructableTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  DropTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/DropTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/DropTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  DropTileMapObjectBase.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/DropTileMapObjectBase.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/DropTileMapObjectBase.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  OneTimeDropTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/OneTimeDropTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/OneTimeDropTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  TriggerDropTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/TriggerDropTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Shared/TriggerDropTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  Stage0MapFactoryObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+  Stage0StaticTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Tile/Stage0/Stage0StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  Stage1MapFactoryObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage1/Stage1MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage1/Stage1MapFactoryObject.cpp'을(를) 컴파일하는 중)
+  
+  Stage1StaticTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage1/Stage1StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/Stage1/Stage1StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  StaticTileMapObject.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/GameObject/Tile/StaticTileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/main.cpp'을(를) 컴파일하는 중)
+  
+  CharacterMovement.cpp
+  ClimbMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/ClimbMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/ClimbMovement.cpp'을(를) 컴파일하는 중)
+  
+  DangleMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DangleMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DangleMovement.cpp'을(를) 컴파일하는 중)
+  
+  DashMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DashMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DashMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DashMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DashMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DashMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DashMovement.cpp'을(를) 컴파일하는 중)
+  
+  DeadMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DeadMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DeadMovement.cpp'을(를) 컴파일하는 중)
+  
+  DialogueMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DialogueMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/DialogueMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DialogueMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DialogueMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DialogueMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/DialogueMovement.cpp'을(를) 컴파일하는 중)
+  
+  FastFallMovement.cpp
+  JumpMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/JumpMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/JumpMovement.cpp'을(를) 컴파일하는 중)
+  
+  MovementInfo.cpp
+  AIFlyMovement.cpp
+  LaughMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/NPC/LaughMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/NPC/LaughMovement.cpp'을(를) 컴파일하는 중)
+  
+  PlayerGameState.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/PlayerGameState.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/PlayerGameState.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/PlayerGameState.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/PlayerGameState.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/PlayerGameState.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Movement/PlayerGameState.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  PlayerJumpMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/PlayerJumpMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/PlayerJumpMovement.cpp'을(를) 컴파일하는 중)
+  
+  SharedGameState.cpp
+  SlideMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/SlideMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/SlideMovement.cpp'을(를) 컴파일하는 중)
+  
+  WalkMovement.cpp
+  WallJumpMovement.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/WallJumpMovement.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Movement/WallJumpMovement.cpp'을(를) 컴파일하는 중)
+  
+  GlobalSetting.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Setting/GlobalSetting.cpp'을(를) 컴파일하는 중)
+  
+  WorldLoadThread.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Thread/WorldLoadThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/Thread/WorldLoadThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Thread/WorldLoadThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Thread/WorldLoadThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Thread/WorldLoadThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Thread/WorldLoadThread.cpp'을(를) 컴파일하는 중)
+  
+  EditorWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/EditorWidget.cpp'을(를) 컴파일하는 중)
+  
+  HairEditorWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/HairEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/HairEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Editor\HairEditorWidget.cpp(581,74): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Editor/HairEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Editor\HairEditorWidget.cpp(667,22): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Editor/HairEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+  TileEditorWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/TileEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/TileEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+  TileLayerEditorWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/TileLayerEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Editor/TileLayerEditorWidget.cpp'을(를) 컴파일하는 중)
+  
+  LoadWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Load/LoadWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Load/LoadWidget.cpp'을(를) 컴파일하는 중)
+  
+  DialogueWidget.cpp
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\DialogueWidget.cpp(334,50): warning C4267: '인수': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\DialogueWidget.cpp(382,51): warning C4267: '인수': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/DialogueWidget.cpp'을(를) 컴파일하는 중)
+  
+  ScreenSwapWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/ScreenSwapWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/ScreenSwapWidget.cpp'을(를) 컴파일하는 중)
+  
+  SimpleTalkWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/SimpleTalkWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/SimpleTalkWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SimpleTalkWidget.cpp(71,47): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/SimpleTalkWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SimpleTalkWidget.cpp(71,27): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI/Main/SimpleTalkWidget.cpp'을(를) 컴파일하는 중)
+  
+  SoliloquyWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/SoliloquyWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Main/SoliloquyWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SoliloquyWidget.cpp(191,76): warning C4267: '인수': 'size_t'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SoliloquyWidget.cpp(191,76): warning C4267:         with
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SoliloquyWidget.cpp(191,76): warning C4267:         [
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SoliloquyWidget.cpp(191,76): warning C4267:             _Ty=int32
+E:\VSProj\P_Celeste\P_Celeste\UI\Main\SoliloquyWidget.cpp(191,76): warning C4267:         ]
+  (소스 파일 '/UI/Main/SoliloquyWidget.cpp'을(를) 컴파일하는 중)
+  
+  TitleWidget.cpp
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Title/TitleWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/UI/Title/TitleWidget.cpp'을(를) 컴파일하는 중)
+  
+  MathUtils.cpp
+  StringUtils.cpp
+  EditorWorld.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  LoadWorld.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/LoadWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/LoadWorld.cpp'을(를) 컴파일하는 중)
+  
+  MainWorld.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+  TileMainWorld.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/TileMainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/TileMainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/TileMainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/TileMainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/TileMainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/World/TileMainWorld.cpp'을(를) 컴파일하는 중)
+  
+  TitleWorld.cpp
+E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/TitleWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 '/World/TitleWorld.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다.
+E:\VSProj\P_Celeste\P_Celeste\Component\CharacterMovementComponent.h(105): warning C4172: 지역 변수 또는 임시 의 주소를 반환하는 중
+  22197 of 22271 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    52 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+DirectXTex.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexD3D11.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexDDS.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexTGA.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexWIC.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexImage.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexUtil.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexConvert.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexMipMaps.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(DirectXTexCompress.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(BC.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(BC4BC5.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex.lib(BC6HBC7.obj)' 또는 'E:\VSProj\P_Celeste\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  P_Celeste.vcxproj -> E:\VSProj\P_Celeste\Binary\P_Celeste.exe

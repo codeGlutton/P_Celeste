@@ -1,0 +1,288 @@
+﻿  0개 파일이 복사되었습니다.
+  compilation object save succeeded; see E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\PostProcess.cso
+  StateComponent.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/StateComponent.cpp'을(를) 컴파일하는 중)
+  
+  GlobalSetting.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'GlobalSetting.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'GlobalSetting.cpp'을(를) 컴파일하는 중)
+  
+  StateInterface.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Interface/StateInterface.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  
+  TileMapMain.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Map/TileMapMain.cpp'을(를) 컴파일하는 중)
+  
+  Monster.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Monster\Monster.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Monster/Monster.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Monster/Monster.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Monster/Monster.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Monster/Monster.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Monster/Monster.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Monster\Monster.cpp(214,9): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Monster\Monster.cpp(217,9): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MonsterSpawnPoint.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Monster\MonsterSpawnPoint.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Monster/MonsterSpawnPoint.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Monster/MonsterSpawnPoint.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Monster/MonsterSpawnPoint.cpp'을(를) 컴파일하는 중)
+  
+  Bullet.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Player\Bullet.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Bullet.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Bullet.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Bullet.cpp'을(를) 컴파일하는 중)
+  
+  BulletEffect.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Player\BulletEffect.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/BulletEffect.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/BulletEffect.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player/BulletEffect.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player/BulletEffect.cpp'을(를) 컴파일하는 중)
+  
+  EditorPlayer.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/EditorPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/EditorPlayer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/EditorPlayer.cpp'을(를) 컴파일하는 중)
+  
+  Missile.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Missile.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Missile.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Missile.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Player/Player.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Player\Player.cpp(408,9): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\Player\Player.cpp(413,9): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PostProcessHit.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PostProcess/PostProcessHit.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PostProcess/PostProcessHit.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PostProcess/PostProcessHit.cpp'을(를) 컴파일하는 중)
+  
+  CBufferHit.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Shader/CBufferHit.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Shader/CBufferHit.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Shader/CBufferHit.cpp'을(를) 컴파일하는 중)
+  
+  ShaderPostProcessHit.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Shader/ShaderPostProcessHit.cpp'을(를) 컴파일하는 중)
+  
+  LoadingThread.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Thread/LoadingThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Thread/LoadingThread.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Thread/LoadingThread.cpp'을(를) 컴파일하는 중)
+  
+  EditorWidget.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/EditorWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/EditorWidget.cpp'을(를) 컴파일하는 중)
+  
+  Inventory.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Inventory.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Inventory.cpp'을(를) 컴파일하는 중)
+  
+  LoadingWidget.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/LoadingWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/LoadingWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/LoadingWidget.cpp'을(를) 컴파일하는 중)
+  
+  MainWidget.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\UI\MainWidget.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/MainWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/MainWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\UI\MainWidget.cpp(110,20): warning C4305: '인수': 'int'에서 'float'(으)로 잘립니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  PlayerStateWidget.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\UI\PlayerStateWidget.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/PlayerStateWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/PlayerStateWidget.cpp'을(를) 컴파일하는 중)
+  
+  Slot.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Slot.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Slot.cpp'을(를) 컴파일하는 중)
+  
+  SlotIcon.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/SlotIcon.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/SlotIcon.cpp'을(를) 컴파일하는 중)
+  
+  StartWidget.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/StartWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/StartWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/StartWidget.cpp'을(를) 컴파일하는 중)
+  
+  WorldHUD.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Client\UI\WorldHUD.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/WorldHUD.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/WorldHUD.cpp'을(를) 컴파일하는 중)
+  
+  EditorWorld.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+  LoadingWorld.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/LoadingWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/LoadingWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/LoadingWorld.cpp'을(를) 컴파일하는 중)
+  
+  MainWorld.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/MainWorld.cpp'을(를) 컴파일하는 중)
+  
+  StartWorld.cpp
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/StartWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/StartWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Wingtto2D\feature_base\DirectX\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/StartWorld.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexImage.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexDDS.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexDDS.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexTGA.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexTGA.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC4BC5.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: 'DirectXTex.pdb' PDB를 'DirectXTex_Debug.lib(BC6HBC7.obj)' 또는 'E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\DirectXTex.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Client.vcxproj -> E:\VSProj\P_Wingtto2D\feature_base\DirectX\Binary\Client_Debug.exe

@@ -1,0 +1,867 @@
+﻿  compilation object save succeeded; see E:\VSProj\P_Celeste\Engine\Binary\Collider.cso
+E:\VSProj\P_Celeste\Engine\Binary\EngineAsset\Shader\EnginePostProcess.hlsl(53,22-26): warning X3556: integer divides may be much slower, try using uints if possible.
+E:\VSProj\P_Celeste\Engine\Binary\EngineAsset\Shader\EnginePostProcess.hlsl(54,22-26): warning X3556: integer modulus may be much slower, try using uints if possible.
+E:\VSProj\P_Celeste\Engine\Binary\EngineAsset\Shader\EnginePostProcess.hlsl(75,22-26): warning X3556: integer divides may be much slower, try using uints if possible.
+E:\VSProj\P_Celeste\Engine\Binary\EngineAsset\Shader\EnginePostProcess.hlsl(76,22-26): warning X3556: integer modulus may be much slower, try using uints if possible.
+  
+  compilation object save succeeded; see E:\VSProj\P_Celeste\Engine\Binary\EnginePostProcess.cso
+  compilation object save succeeded; see E:\VSProj\P_Celeste\Engine\Binary\GlobalShader2D.cso
+  compilation object save succeeded; see E:\VSProj\P_Celeste\Engine\Binary\TileMap.cso
+  compilation object save succeeded; see E:\VSProj\P_Celeste\Engine\Binary\UIShader.cso
+  Animation2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Animation2D/Animation2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Animation2D/Animation2D.cpp'을(를) 컴파일하는 중)
+  
+  Animation2DManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Animation2D/Animation2DManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Animation2D/Animation2DManager.cpp'을(를) 컴파일하는 중)
+  
+  AnimMetaData.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Animation2D/AnimMetaData.cpp'을(를) 컴파일하는 중)
+  
+  Asset.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Asset.cpp'을(를) 컴파일하는 중)
+  
+  AssetManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\AssetManager.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/AssetManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/AssetManager.cpp'을(를) 컴파일하는 중)
+  
+  Font.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Font/Font.cpp'을(를) 컴파일하는 중)
+  
+  FontCollection.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Font/FontCollection.cpp'을(를) 컴파일하는 중)
+  
+  FontManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Font/FontManager.cpp'을(를) 컴파일하는 중)
+  
+  Material.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Material/Material.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Material/Material.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Material/Material.cpp'을(를) 컴파일하는 중)
+  
+  MaterialManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Material/MaterialManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Material/MaterialManager.cpp'을(를) 컴파일하는 중)
+  
+  Mesh.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Mesh\Mesh.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Mesh/Mesh.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Mesh/Mesh.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Mesh\Mesh.cpp(144,24): warning C4838: 'int'에서 'UINT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\VSProj\P_Celeste\GameEngine\Asset\Mesh\Mesh.cpp(144,47): warning C4838: 'const int'에서 'UINT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\VSProj\P_Celeste\GameEngine\Asset\Mesh\Mesh.cpp(233,24): warning C4838: 'int'에서 'UINT'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\VSProj\P_Celeste\GameEngine\Asset\Mesh\Mesh.cpp(233,47): warning C4838: 'const int'에서 'UINT'(으)로의 변환에는 축소 변환이 필요합니다.
+  MeshManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Mesh\MeshManager.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Mesh/MeshManager.cpp'을(를) 컴파일하는 중)
+  
+  PathManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/PathManager.cpp'을(를) 컴파일하는 중)
+  
+  CBufferAnimation2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferAnimation2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferAnimation2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferAnimation2D.cpp'을(를) 컴파일하는 중)
+  
+  CBufferBlur.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferBlur.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferBlur.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferBlur.cpp'을(를) 컴파일하는 중)
+  
+  CBufferCollider.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferCollider.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferCollider.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferCollider.cpp'을(를) 컴파일하는 중)
+  
+  CBufferMaterial.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferMaterial.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferMaterial.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferMaterial.cpp'을(를) 컴파일하는 중)
+  
+  CBufferTileMap.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferTileMap.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferTileMap.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferTileMap.cpp'을(를) 컴파일하는 중)
+  
+  CBufferTransform.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferTransform.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferTransform.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferTransform.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferTransform.cpp'을(를) 컴파일하는 중)
+  
+  CBufferUIDefault.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferUIDefault.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferUIDefault.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/CBufferUIDefault.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  ComputeShader.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ComputeShader.cpp'을(를) 컴파일하는 중)
+  
+  ConstantBuffer.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBuffer.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+  ConstantBufferData.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ConstantBufferData.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ConstantBufferData.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ConstantBufferData.cpp'을(를) 컴파일하는 중)
+  
+  GraphicShader.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\GraphicShader.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/GraphicShader.cpp'을(를) 컴파일하는 중)
+  
+  Shader.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/Shader.cpp'을(를) 컴파일하는 중)
+  
+  ShaderBlur.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderBlur.cpp'을(를) 컴파일하는 중)
+  
+  ShaderCollider.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderCollider.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderCollider.cpp'을(를) 컴파일하는 중)
+  
+  ShaderColor2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderColor2D.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderColor2D.cpp'을(를) 컴파일하는 중)
+  
+  ShaderDefaultTex.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderDefaultTex.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderDefaultTex.cpp'을(를) 컴파일하는 중)
+  
+  ShaderManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderManager.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderManager.cpp'을(를) 컴파일하는 중)
+  
+  ShaderMaterialColor2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderMaterialColor2D.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderMaterialColor2D.cpp'을(를) 컴파일하는 중)
+  
+  ShaderMaterialColor2DInstancing.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderMaterialColor2DInstancing.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderMaterialColor2DInstancing.cpp'을(를) 컴파일하는 중)
+  
+  ShaderNullBuffer.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderNullBuffer.cpp'을(를) 컴파일하는 중)
+  
+  ShaderTexture2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderTexture2D.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderTexture2D.cpp'을(를) 컴파일하는 중)
+  
+  ShaderTexture2DInstancing.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderTexture2DInstancing.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderTexture2DInstancing.cpp'을(를) 컴파일하는 중)
+  
+  ShaderTileMap.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderTileMap.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderTileMap.cpp'을(를) 컴파일하는 중)
+  
+  ShaderTileMapInstancing.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderTileMapInstancing.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderTileMapInstancing.cpp'을(를) 컴파일하는 중)
+  
+  ShaderTileMapLineInstancing.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderTileMapLineInstancing.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderTileMapLineInstancing.cpp'을(를) 컴파일하는 중)
+  
+  ShaderUIDefault.cpp
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ShaderUIDefault.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Shader/ShaderUIDefault.cpp'을(를) 컴파일하는 중)
+  
+  Sound.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Sound/Sound.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Sound\Sound.cpp(211,31): warning C4244: '초기화 중': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\VSProj\P_Celeste\GameEngine\Asset\Sound\Sound.cpp(258,31): warning C4244: '초기화 중': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  SoundManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Sound/SoundManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Sound/SoundManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Sound/SoundManager.cpp'을(를) 컴파일하는 중)
+  
+  RenderTarget.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Texture/RenderTarget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Texture/RenderTarget.cpp'을(를) 컴파일하는 중)
+  
+  Texture.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Texture/Texture.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Texture/Texture.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Texture\Texture.cpp(378,40): warning C4267: '=': 'size_t'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TextureManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Texture/TextureManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Asset/Texture/TextureManager.cpp'을(를) 컴파일하는 중)
+  
+  CollisionInfoManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'CollisionInfoManager.cpp'을(를) 컴파일하는 중)
+  
+  Animation2DComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Animation2DComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component/Animation2DComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component/Animation2DComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Animation2DComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Animation2DComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Animation2DComponent.cpp'을(를) 컴파일하는 중)
+  
+  Animation2DSequence.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Animation2DSequence.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component/Animation2DSequence.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component/Animation2DSequence.cpp'을(를) 컴파일하는 중)
+  
+  CameraComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/CameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/CameraComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/CameraComponent.cpp'을(를) 컴파일하는 중)
+  
+  Collider.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Collider.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Collider.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Collider.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Collider.cpp'을(를) 컴파일하는 중)
+  
+  ColliderBox2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderBox2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderBox2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderBox2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderBox2D.cpp'을(를) 컴파일하는 중)
+  
+  ColliderLine2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Component\ColliderLine2D.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderLine2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderLine2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderLine2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderLine2D.cpp'을(를) 컴파일하는 중)
+  
+  ColliderOneWayBox2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderOneWayBox2D.cpp'을(를) 컴파일하는 중)
+  
+  ColliderSphere2D.cpp
+E:\VSProj\P_Celeste\GameEngine\Component\ColliderSphere2D.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderSphere2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderSphere2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderSphere2D.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ColliderSphere2D.cpp'을(를) 컴파일하는 중)
+  
+  Collision.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Collision.cpp'을(를) 컴파일하는 중)
+  
+  Component.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Component.cpp'을(를) 컴파일하는 중)
+  
+  MeshComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/MeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/MeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/MeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/MeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component/MeshComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Component/MeshComponent.cpp'을(를) 컴파일하는 중)
+  
+  MovementComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/MovementComponent.cpp'을(를) 컴파일하는 중)
+  
+  ObjectComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ObjectComponent.cpp'을(를) 컴파일하는 중)
+  
+  ObjectMovementComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ObjectMovementComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ObjectMovementComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ObjectMovementComponent.cpp'을(를) 컴파일하는 중)
+  
+  ProjectileMovementComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/ProjectileMovementComponent.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  SceneComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/SceneComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/SceneComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/SceneComponent.cpp'을(를) 컴파일하는 중)
+  
+  Tile.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/Tile.cpp'을(를) 컴파일하는 중)
+  
+  TileMapComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapComponent.cpp'을(를) 컴파일하는 중)
+  
+  TileMapRender.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapRender.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapRender.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapRender.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/TileMapRender.cpp'을(를) 컴파일하는 중)
+  
+  WidgetComponent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/WidgetComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/WidgetComponent.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Component/WidgetComponent.cpp'을(를) 컴파일하는 중)
+  
+  Device.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Device.cpp'을(를) 컴파일하는 중)
+  
+  Engine.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Engine.cpp'을(를) 컴파일하는 중)
+  
+  EngineSetting.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'EngineSetting.cpp'을(를) 컴파일하는 중)
+  
+  Matrix.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Matrix.cpp'을(를) 컴파일하는 중)
+  
+  Object.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Object.cpp'을(를) 컴파일하는 중)
+  
+  GameObject.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Object/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  RewardManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Object/RewardManager.cpp'을(를) 컴파일하는 중)
+  
+  TileMapObject.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Object/TileMapObject.cpp'을(를) 컴파일하는 중)
+  
+  BlendState.cpp
+E:\VSProj\P_Celeste\GameEngine\Render\BlendState.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/BlendState.cpp'을(를) 컴파일하는 중)
+  
+  DepthStencilState.cpp
+E:\VSProj\P_Celeste\GameEngine\Render\DepthStencilState.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/DepthStencilState.cpp'을(를) 컴파일하는 중)
+  
+  TextGeometryCacheRenderer.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/TextGeometryCacheRenderer.cpp'을(를) 컴파일하는 중)
+  
+  PostProcess.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/PostProcess.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/PostProcess.cpp'을(를) 컴파일하는 중)
+  
+  PostProcessBlur.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/PostProcessBlur.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/PostProcessBlur.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/PostProcessBlur.cpp'을(를) 컴파일하는 중)
+  
+  RenderInstancing.cpp
+E:\VSProj\P_Celeste\GameEngine\Render\RenderInstancing.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderInstancing.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderInstancing.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderInstancing.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Render/RenderInstancing.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Render/RenderInstancing.cpp'을(를) 컴파일하는 중)
+  
+  RenderManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  RenderState.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Render/RenderState.cpp'을(를) 컴파일하는 중)
+  
+  ThreadBase.cpp
+E:\VSProj\P_Celeste\GameEngine\ThreadBase.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'ThreadBase.cpp'을(를) 컴파일하는 중)
+  
+  ThreadManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'ThreadManager.cpp'을(를) 컴파일하는 중)
+  
+  ThreadQueue.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'ThreadQueue.cpp'을(를) 컴파일하는 중)
+  
+  Timer.cpp
+E:\VSProj\P_Celeste\GameEngine\Timer.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Timer.cpp'을(를) 컴파일하는 중)
+  
+  Button.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Button.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Button.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Button.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Button.cpp'을(를) 컴파일하는 중)
+  
+  Image.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Image.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Image.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Image.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Image.cpp'을(를) 컴파일하는 중)
+  
+  MouseWidget.cpp
+E:\VSProj\P_Celeste\GameEngine\UI\MouseWidget.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/MouseWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/MouseWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/MouseWidget.cpp'을(를) 컴파일하는 중)
+  
+  NumberWidget.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/NumberWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/NumberWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/NumberWidget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/NumberWidget.cpp'을(를) 컴파일하는 중)
+  
+  ProgressBar.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/ProgressBar.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/ProgressBar.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/ProgressBar.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/ProgressBar.cpp'을(를) 컴파일하는 중)
+  
+  TextBlock.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TextBlock.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TextBlock.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TextBlock.cpp'을(를) 컴파일하는 중)
+  
+  TitleBar.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TitleBar.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TitleBar.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TitleBar.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/TitleBar.cpp'을(를) 컴파일하는 중)
+  
+  Widget.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Widget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Widget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Widget.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/Widget.cpp'을(를) 컴파일하는 중)
+  
+  WidgetContainer.cpp
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/WidgetContainer.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'UI/WidgetContainer.cpp'을(를) 컴파일하는 중)
+  
+  Vector3.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Vector3.cpp'을(를) 컴파일하는 중)
+  
+  Vector4.cpp
+  CameraManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CameraManager.cpp'을(를) 컴파일하는 중)
+  
+  CollisionQuadTree.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTree.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTree.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTree.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTree.cpp'을(를) 컴파일하는 중)
+  
+  CollisionQuadTreeNode.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTreeNode.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\ConstantBufferData.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTreeNode.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTreeNode.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/CollisionQuadTreeNode.cpp'을(를) 컴파일하는 중)
+  
+  EditorWorld.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  
+  컴파일하고 있습니다...
+  Input.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/Input.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/Input.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/Input.cpp'을(를) 컴파일하는 중)
+  
+  NavAgent.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/NavAgent.cpp'을(를) 컴파일하는 중)
+  
+  Navigation.cpp
+E:\VSProj\P_Celeste\GameEngine\World\Navigation.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/Navigation.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\World\Navigation.cpp(1134,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  ThreadNavigation.cpp
+E:\VSProj\P_Celeste\GameEngine\World\ThreadNavigation.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/ThreadNavigation.cpp'을(를) 컴파일하는 중)
+  
+  World.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/World.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/World.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/World.cpp'을(를) 컴파일하는 중)
+  
+  WorldAssetManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldAssetManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldAssetManager.cpp'을(를) 컴파일하는 중)
+  
+  WorldCollision.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldCollision.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldCollision.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldCollision.cpp'을(를) 컴파일하는 중)
+  
+  WorldManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldManager.cpp'을(를) 컴파일하는 중)
+  
+  WorldNavigation.cpp
+E:\VSProj\P_Celeste\GameEngine\World\WorldNavigation.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldNavigation.cpp'을(를) 컴파일하는 중)
+  
+  WorldUIManager.cpp
+E:\VSProj\P_Celeste\GameEngine\Matrix.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldUIManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldUIManager.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\GameEngine\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'World/WorldUIManager.cpp'을(를) 컴파일하는 중)
+  
+  GameEngine.vcxproj -> E:\VSProj\P_Celeste\Engine\Binary\GameEngine.lib
+  0개 파일이 복사되었습니다.
+  파일을 찾을 수 없습니다-*.hpp
+  0개 파일이 복사되었습니다.
+  파일을 찾을 수 없습니다-*.cs
+  0개 파일이 복사되었습니다.
+  파일을 찾을 수 없습니다-*.inl
+  0개 파일이 복사되었습니다.
+  0개 파일이 복사되었습니다.

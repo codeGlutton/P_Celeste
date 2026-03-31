@@ -1,0 +1,119 @@
+﻿#pragma once
+
+#include "EngineInfo.h"
+
+class CDevice
+{
+private:
+	CDevice();
+	~CDevice();
+
+public:
+	const FVector2& GetTexelSize()	const
+	{
+		return mTexelSize;
+	}
+
+	ID2D1RenderTarget* GetCur2DTarget()	const
+	{
+		return mCur2DTarget;
+	}
+
+	ID2D1RenderTarget* Swap2DTarget(ID2D1RenderTarget* Target)
+	{
+		ID2D1RenderTarget* PreTarget = mCur2DTarget;
+		mCur2DTarget = Target;
+		return PreTarget;
+	}
+
+	ID3D11Device* GetDevice()	const
+	{
+		return mDevice;
+	}
+
+	ID2D1Factory* Get2DFactory()	const
+	{
+		return m2DFactory;
+	}
+
+	ID3D11DeviceContext* GetContext()	const
+	{
+		return mContext;
+	}
+
+	const FResolution& GetResolution()	const
+	{
+		return mRS;
+	}
+
+	bool GetWindowMode()	const
+	{
+		return mWindowMode;
+	}
+
+	FVector2 GetResolutionRatio()	const
+	{
+		// 윈도우 클라이언트 영역의 크기를 얻어온다.
+		RECT	WindowRC;
+		GetClientRect(mhWnd, &WindowRC);
+
+		FVector2	Ratio;
+		Ratio.x = mRS.Width / (float)(WindowRC.right - WindowRC.left);
+		Ratio.y = mRS.Height / (float)(WindowRC.bottom - WindowRC.top);
+
+		return Ratio;
+	}
+
+public:
+	bool Init(HWND hWnd, int Width, int Height, bool WindowMode);
+	void ClearBackBuffer();
+	void ClearDepthStencil(float Depth = 1.f, unsigned char Stencil = 0);
+	void SetTarget();
+	void BeginRender();
+	void EndRender();
+
+public:
+	static CDevice* GetInst()
+	{
+		if (!mInst)
+			mInst = new CDevice;
+		return mInst;
+	}
+
+	static void DestroyInst()
+	{
+		SAFE_DELETE(mInst);
+	}
+
+private:
+	static CDevice* mInst;
+
+private:
+	// 리소스 생성할 때 주로 사용한다.
+	ID3D11Device* mDevice = nullptr;
+
+	// 렌더링 명령 등에 주로 사용된다.
+	ID3D11DeviceContext* mContext = nullptr;
+
+	// 백버퍼를 가지고 있고 페이지 플리핑을 진행해주는 객체
+	IDXGISwapChain* mSwapChain = nullptr;
+
+	ID3D11RenderTargetView* mTargetView = nullptr;
+	ID3D11DepthStencilView* mDepthView = nullptr;
+
+	// 해상도
+	FResolution		mRS;
+
+	// TexelSize
+	FVector2		mTexelSize;
+
+	bool		mWindowMode = false;
+
+	HWND		mhWnd;
+
+private:
+	ID2D1RenderTarget* mDefault2DTarget = nullptr;
+	ID2D1RenderTarget* mCur2DTarget = nullptr;
+	ID2D1Factory* m2DFactory = nullptr;
+};
+

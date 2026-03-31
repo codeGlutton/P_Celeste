@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\VSProj\P_Celeste\Engine\Binary\Collider.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\VSProj\P_Celeste\Engine\Binary\EnginePostProcess.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\VSProj\P_Celeste\Engine\Binary\GlobalShader2D.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\VSProj\P_Celeste\Engine\Binary\TileMap.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\VSProj\P_Celeste\Engine\Binary\UIShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="World">
+      <UniqueIdentifier>{40413d03-3e8d-49ee-a8f0-477d74857f01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character">
+      <UniqueIdentifier>{cd672ce7-d9d3-4c6e-b807-fc1cf40303d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\Player">
+      <UniqueIdentifier>{910323fd-c892-40d3-92d8-1f9853fb0c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component">
+      <UniqueIdentifier>{60bb882e-08bc-4ade-8377-21ba3f2132fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Animation">
+      <UniqueIdentifier>{335f62c8-8332-43bb-9703-a2fbbe415740}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Setting">
+      <UniqueIdentifier>{d59e4d57-891c-46fc-af8e-220fde5bd472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Movement">
+      <UniqueIdentifier>{3c387ca3-304d-43e5-9ebe-3b0cc80f4fb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{891daf12-1fa4-4037-ac62-f37ecc6d4dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{d55a83a8-20fa-4fff-b573-76eb0f6788eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Title">
+      <UniqueIdentifier>{c68d8bf6-fe8b-4688-8e99-7f9bca6ab892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Thread">
+      <UniqueIdentifier>{f5e8eeab-c973-4587-9f14-bf62f7f845ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Editor">
+      <UniqueIdentifier>{6493f634-0d6f-434f-9d6d-beb42f2013d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Editor">
+      <UniqueIdentifier>{58c11e72-4757-4275-a797-e70d37b046cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{5ae086ed-2529-4eac-9cdf-6698656b2933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Tile">
+      <UniqueIdentifier>{277c0d20-b950-4e1f-85d6-c8e460573253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Tile\Stage0">
+      <UniqueIdentifier>{a1c1cc7a-f1fc-4a26-a0cf-758e4037c33b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Tile\Shared">
+      <UniqueIdentifier>{1ecd9f00-a86f-43b3-b3eb-a74a3d13ac7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Interator">
+      <UniqueIdentifier>{99702fa5-d574-4206-b809-5458898b556f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Item">
+      <UniqueIdentifier>{8ff3ff14-2adc-4de8-b72b-df7f291ac190}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Tile\Stage1">
+      <UniqueIdentifier>{17008142-6e79-4589-a7fa-59ebc70a4efa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\NPC">
+      <UniqueIdentifier>{bc42df3b-efa2-4c79-81b2-8ceaf7ab717e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Movement\NPC">
+      <UniqueIdentifier>{bffaf8de-b6fe-47d3-a9f2-78c66f672c0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Main">
+      <UniqueIdentifier>{39532795-1369-44fd-8cd0-a7c9041c4985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dialogue">
+      <UniqueIdentifier>{86e31c6f-029d-4867-9a15-48657244573c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Mesh">
+      <UniqueIdentifier>{b1e80ec8-e2bb-484a-bd5c-e9ce54845a39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI\Load">
+      <UniqueIdentifier>{aff85e82-6a40-4b70-a7de-04f1bf4094d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ClientInfo.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="World\MainWorld.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Character.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation\AnimState.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Pch.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation\AnimTransition.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation\AnimStateMachine.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Player\Player.h">
+      <Filter>Character\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\HairMeshComponent.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation\HairMetaData.h">
+      <Filter>Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting\GlobalSetting.h">
+      <Filter>Setting</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\CharacterMovementComponent.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\CharacterMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\SharedGameState.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\DashMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\JumpMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\DangleMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\PlayerGameState.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\MathUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\WalkMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\WallJumpMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\ClimbMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\SlideMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\FastFallMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\PlayerJumpMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="World\TitleWorld.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Title\TitleWidget.h">
+      <Filter>UI\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Thread\WorldLoadThread.h">
+      <Filter>Thread</Filter>
+    </ClInclude>
+    <ClInclude Include="World\EditorWorld.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="World\LoadWorld.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor\EditorPlayer.h">
+      <Filter>Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Editor\EditorWidget.h">
+      <Filter>UI\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Editor\HairEditorWidget.h">
+      <Filter>UI\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor\HairEditorObject.h">
+      <Filter>Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Editor\TileEditorWidget.h">
+      <Filter>UI\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Editor\TileLayerEditorWidget.h">
+      <Filter>UI\Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor\TileEditorObject.h">
+      <Filter>Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\LayeredTileMapObject.h">
+      <Filter>GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\StringUtils.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\StaticTileMapObject.h">
+      <Filter>GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Stage0\Stage0StaticTileMapObject.h">
+      <Filter>GameObject\Tile\Stage0</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\MapFactoryObject.h">
+      <Filter>GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="World\TileMainWorld.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Stage0\Stage0MapFactoryObject.h">
+      <Filter>GameObject\Tile\Stage0</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\MapInfo.h">
+      <Filter>GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\TileMapCameraComponent.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\DynamicTileMapObject.h">
+      <Filter>GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Shared\DropTileMapObject.h">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Interator\InteractableObject.h">
+      <Filter>GameObject\Interator</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Interator\PlayerInteractableObject.h">
+      <Filter>GameObject\Interator</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Shared\TriggerDropTileMapObject.h">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\DeadMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Shared\DestructableTileMapObject.h">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Stage1\Stage1MapFactoryObject.h">
+      <Filter>GameObject\Tile\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Stage1\Stage1StaticTileMapObject.h">
+      <Filter>GameObject\Tile\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\DamageBoxCollider.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\NPC\Bird.h">
+      <Filter>Character\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\NPC\AIFlyMovement.h">
+      <Filter>Movement\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Main\SimpleTalkWidget.h">
+      <Filter>UI\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\NPC\OldLady.h">
+      <Filter>Character\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\DialogueMovement.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialogue\DialogueData.h">
+      <Filter>Dialogue</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Main\DialogueWidget.h">
+      <Filter>UI\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Dialogue\Conversable.h">
+      <Filter>Dialogue</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\CutsceenCameraComponent.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\NPC\LaughMovement.h">
+      <Filter>Movement\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Main\ScreenSwapWidget.h">
+      <Filter>UI\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Shared\DropTileMapObjectBase.h">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Tile\Shared\OneTimeDropTileMapObject.h">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Mesh\DynamicMapObject.h">
+      <Filter>GameObject\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Mesh\DropMapObjectBase.h">
+      <Filter>GameObject\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Mesh\OneTimeDropMapObject.h">
+      <Filter>GameObject\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Mesh\TriggerOneTimeDropMapObject.h">
+      <Filter>GameObject\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\WorldTimeChangableBoxCollider.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Player\TutorialPlayer.h">
+      <Filter>Character\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Main\SoliloquyWidget.h">
+      <Filter>UI\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Load\LoadWidget.h">
+      <Filter>UI\Load</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Mesh\SpringMapObject.h">
+      <Filter>GameObject\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement\MovementInfo.h">
+      <Filter>Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Item\ItemObject.h">
+      <Filter>GameObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Item\CelesteRewardData.h">
+      <Filter>GameObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Item\LazyItemObject.h">
+      <Filter>GameObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Item\InstantItemObject.h">
+      <Filter>GameObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Component\SpringArmComponent.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject\Item\StrawberryObject.h">
+      <Filter>GameObject\Item</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="P_Celeste.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="SizeInput.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="P_Celeste.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Copy.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="World\MainWorld.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Character.cpp">
+      <Filter>Character</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation\AnimState.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Pch.cpp">
+      <Filter>Include</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation\AnimTransition.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation\AnimStateMachine.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Player\Player.cpp">
+      <Filter>Character\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\HairMeshComponent.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation\HairMetaData.cpp">
+      <Filter>Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting\GlobalSetting.cpp">
+      <Filter>Setting</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\CharacterMovementComponent.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\CharacterMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\SharedGameState.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\DashMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\JumpMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\DangleMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\PlayerGameState.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\MathUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\WalkMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\WallJumpMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\ClimbMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\SlideMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\FastFallMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\PlayerJumpMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="World\TitleWorld.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Title\TitleWidget.cpp">
+      <Filter>UI\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread\WorldLoadThread.cpp">
+      <Filter>Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="World\EditorWorld.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="World\LoadWorld.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor\EditorPlayer.cpp">
+      <Filter>Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Editor\EditorWidget.cpp">
+      <Filter>UI\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Editor\HairEditorWidget.cpp">
+      <Filter>UI\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor\HairEditorObject.cpp">
+      <Filter>Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Editor\TileEditorWidget.cpp">
+      <Filter>UI\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Editor\TileLayerEditorWidget.cpp">
+      <Filter>UI\Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor\TileEditorObject.cpp">
+      <Filter>Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\LayeredTileMapObject.cpp">
+      <Filter>GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\StringUtils.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\StaticTileMapObject.cpp">
+      <Filter>GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Stage0\Stage0StaticTileMapObject.cpp">
+      <Filter>GameObject\Tile\Stage0</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\MapFactoryObject.cpp">
+      <Filter>GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="World\TileMainWorld.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Stage0\Stage0MapFactoryObject.cpp">
+      <Filter>GameObject\Tile\Stage0</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\MapInfo.cpp">
+      <Filter>GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\TileMapCameraComponent.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\DynamicTileMapObject.cpp">
+      <Filter>GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Shared\DropTileMapObject.cpp">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Interator\InteractableObject.cpp">
+      <Filter>GameObject\Interator</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Interator\PlayerInteractableObject.cpp">
+      <Filter>GameObject\Interator</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Shared\TriggerDropTileMapObject.cpp">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\DeadMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Shared\DestructableTileMapObject.cpp">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Stage1\Stage1MapFactoryObject.cpp">
+      <Filter>GameObject\Tile\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Stage1\Stage1StaticTileMapObject.cpp">
+      <Filter>GameObject\Tile\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\DamageBoxCollider.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\NPC\Bird.cpp">
+      <Filter>Character\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\NPC\AIFlyMovement.cpp">
+      <Filter>Movement\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Main\SimpleTalkWidget.cpp">
+      <Filter>UI\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\NPC\OldLady.cpp">
+      <Filter>Character\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\DialogueMovement.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialogue\DialogueData.cpp">
+      <Filter>Dialogue</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Main\DialogueWidget.cpp">
+      <Filter>UI\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Dialogue\Conversable.cpp">
+      <Filter>Dialogue</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\CutsceenCameraComponent.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\NPC\LaughMovement.cpp">
+      <Filter>Movement\NPC</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Main\ScreenSwapWidget.cpp">
+      <Filter>UI\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Shared\DropTileMapObjectBase.cpp">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Tile\Shared\OneTimeDropTileMapObject.cpp">
+      <Filter>GameObject\Tile\Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Mesh\DynamicMapObject.cpp">
+      <Filter>GameObject\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Mesh\DropMapObjectBase.cpp">
+      <Filter>GameObject\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Mesh\OneTimeDropMapObject.cpp">
+      <Filter>GameObject\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Mesh\TriggerOneTimeDropMapObject.cpp">
+      <Filter>GameObject\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\WorldTimeChangableBoxCollider.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Player\TutorialPlayer.cpp">
+      <Filter>Character\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Main\SoliloquyWidget.cpp">
+      <Filter>UI\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Load\LoadWidget.cpp">
+      <Filter>UI\Load</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Mesh\SpringMapObject.cpp">
+      <Filter>GameObject\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Movement\MovementInfo.cpp">
+      <Filter>Movement</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Item\ItemObject.cpp">
+      <Filter>GameObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Item\CelesteRewardData.cpp">
+      <Filter>GameObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Item\LazyItemObject.cpp">
+      <Filter>GameObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Item\InstantItemObject.cpp">
+      <Filter>GameObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Component\SpringArmComponent.cpp">
+      <Filter>Component</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject\Item\StrawberryObject.cpp">
+      <Filter>GameObject\Item</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
