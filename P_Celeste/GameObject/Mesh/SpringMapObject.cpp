@@ -31,7 +31,7 @@ void CSpringMapObject::Update(float DeltaTime)
 			mSpringState = ESpringState::Reload;
 
 			std::shared_ptr<CCharacter> TriggeredInterator = mTriggeredInterator.lock();
-			//TriggeredInterator->GetMovementComp()->StopAllMovement();
+			TriggeredInterator->GetMovementComp()->StopAllMovement();
 			TriggeredInterator->GetMovementComp()->DoMovement("Jump");
 			TriggeredInterator->GetMovementComp()->GetUpdateComponent().lock()->AddPhysicsVelocity(mMeshComponent->GetAxis(EAxis::Y) * mSpringVelocity);
 		

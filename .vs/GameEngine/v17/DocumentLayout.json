@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\VSProj\\P_Celeste\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{706DA360-704B-4D01-97CB-1C25C9D8B064}|P_Celeste\\P_Celeste.vcxproj|E:\\VSProj\\P_Celeste\\P_Celeste\\GameObject\\Mesh\\SpringMapObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{706DA360-704B-4D01-97CB-1C25C9D8B064}|P_Celeste\\P_Celeste.vcxproj|solutionrelative:P_Celeste\\GameObject\\Mesh\\SpringMapObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{706DA360-704B-4D01-97CB-1C25C9D8B064}|P_Celeste\\P_Celeste.vcxproj|E:\\VSProj\\P_Celeste\\P_Celeste\\World\\EditorWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{706DA360-704B-4D01-97CB-1C25C9D8B064}|P_Celeste\\P_Celeste.vcxproj|solutionrelative:P_Celeste\\World\\EditorWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpringMapObject.cpp",
+              "DocumentMoniker": "E:\\VSProj\\P_Celeste\\P_Celeste\\GameObject\\Mesh\\SpringMapObject.cpp",
+              "RelativeDocumentMoniker": "P_Celeste\\GameObject\\Mesh\\SpringMapObject.cpp",
+              "ToolTip": "E:\\VSProj\\P_Celeste\\P_Celeste\\GameObject\\Mesh\\SpringMapObject.cpp",
+              "RelativeToolTip": "P_Celeste\\GameObject\\Mesh\\SpringMapObject.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-31T06:51:48.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EditorWorld.cpp",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\P_Celeste\\World\\EditorWorld.cpp",
               "RelativeDocumentMoniker": "P_Celeste\\World\\EditorWorld.cpp",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "P_Celeste\\World\\EditorWorld.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-31T06:32:26.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T06:32:26.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "World.cpp",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\GameEngine\\World\\World.cpp",
               "RelativeDocumentMoniker": "GameEngine\\World\\World.cpp",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Engine.cpp",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\GameEngine\\Engine.cpp",
               "RelativeDocumentMoniker": "GameEngine\\Engine.cpp",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cpp",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\P_Celeste\\Character\\Player\\Player.cpp",
               "RelativeDocumentMoniker": "P_Celeste\\Character\\Player\\Player.cpp",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.h",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\P_Celeste\\Character\\Player\\Player.h",
               "RelativeDocumentMoniker": "P_Celeste\\Character\\Player\\Player.h",
@@ -103,12 +119,11 @@
               "RelativeToolTip": "P_Celeste\\Character\\Player\\Player.h",
               "ViewState": "AgIAAFQAAAAAAAAAAAApwHoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-31T04:17:56.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T04:17:56.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WorldCollision.cpp",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\GameEngine\\World\\WorldCollision.cpp",
               "RelativeDocumentMoniker": "GameEngine\\World\\WorldCollision.cpp",
@@ -120,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WorldCollision.h",
               "DocumentMoniker": "E:\\VSProj\\P_Celeste\\GameEngine\\World\\WorldCollision.h",
               "RelativeDocumentMoniker": "GameEngine\\World\\WorldCollision.h",

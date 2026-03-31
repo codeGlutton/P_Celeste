@@ -1,10 +1,28 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(523,5): warning MSB8004: Intermediate 디렉터리가 슬래시로 끝나지 않습니다. Intermediate 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
   0개 파일이 복사되었습니다.
-  EditorWorld.cpp
+  SpringMapObject.cpp
 E:\VSProj\P_Celeste\Engine\Include\Asset\Shader\CBufferContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  (소스 파일 '/World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
   
 E:\VSProj\P_Celeste\Engine\Include\UI\WidgetContainer.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-  (소스 파일 '/World/EditorWorld.cpp'을(를) 컴파일하는 중)
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,52): warning C4267: '초기화 중': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(17,33): warning C4267: '초기화 중': 'size_t'에서 'const int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(56,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\P_Celeste\Dialogue\DialogueData.h(65,33): warning C4267: '=': 'size_t'에서 'int32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(99,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
+  
+E:\VSProj\P_Celeste\Engine\Include\Component\Animation2DSequence.h(109,32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GameObject/Mesh/SpringMapObject.cpp'을(를) 컴파일하는 중)
   
   P_Celeste.vcxproj -> E:\VSProj\P_Celeste\Binary\P_Celeste_Debug.exe
