@@ -9,7 +9,7 @@ It focuses on recreating the core mechanics and gameplay UX of the original game
 이 프로젝트는 DirectX 11을 사용하여 개발한 2D 플랫포머 게임으로, Celeste를 모작한 포트폴리오 목적의 프로젝트입니다.
 게임의 핵심 메커니즘과 조작감을 동일하게 구현하는 데 중점을 두고 제작되었습니다.
 
-## :pushpin: Main Architecture (핵심 프레임워크)
+## :pushpin: Main Architecture (핵심 아키텍처)
 <div align="center">
 <img src="https://github.com/user-attachments/assets/eeb30675-8f96-4910-b4d7-c1dff6bde829" width="600" height="1200"/>
 </div>
