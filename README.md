@@ -1,6 +1,6 @@
 # :computer: P_Celeste
 <div align="center">
-<img src="https://github.com/user-attachments/assets/36694f7e-8df7-483f-b58c-d58171c7d235" width="600" height="1200"/>
+<img src="https://github.com/user-attachments/assets/36694f7e-8df7-483f-b58c-d58171c7d235" width="1200" height="600"/>
 </div>
 
 This project is a 2D platformer developed using DirectX 11, created as a portfolio project that recreates Celeste.
@@ -11,10 +11,10 @@ It focuses on recreating the core mechanics and gameplay UX of the original game
 
 ## :pushpin: Main Architecture (핵심 아키텍처)
 <div align="center">
-<img src="https://github.com/user-attachments/assets/eeb30675-8f96-4910-b4d7-c1dff6bde829" width="600" height="1200"/>
+<img src="https://github.com/user-attachments/assets/eeb30675-8f96-4910-b4d7-c1dff6bde829" width="1200" height="600"/>
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/14500275-11b9-49a4-8990-fb4fb2d5cd21" width="600" height="1200"/>
+<img src="https://github.com/user-attachments/assets/14500275-11b9-49a4-8990-fb4fb2d5cd21" width="1200" height="600"/>
 </div>
 
 In a structure where multiple stages exist within a single world, keeping all stage data loaded in memory at all times led to performance degradation and unnecessary memory usage.
