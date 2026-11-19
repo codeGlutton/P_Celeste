@@ -21,22 +21,22 @@ bool CStage1MapFactoryObject::InitMapInfos()
 
 	mParallZeroPos = FVector3(RS.Width * 0.5f, RS.Height * 0.5f, 0.f);
 
-	auto StartMap0Info = std::make_shared<FMapInfo<CStage1StaticTileMap0Object>>(FVector2(0.f, 0.f));
-	auto StartMap1Info = std::make_shared<FMapInfo<CStage1StaticTileMap1Object>>(FVector2(780.f, 0.f));
-	auto StartMap2Info = std::make_shared<FMapInfo<CStage1StaticTileMap2Object>>(FVector2(1586.f, 0.f));
+	auto Map0Info = std::make_shared<FMapInfo<CStage1StaticTileMap0Object>>(FVector2(0.f, 0.f));
+	auto Map1Info = std::make_shared<FMapInfo<CStage1StaticTileMap1Object>>(FVector2(780.f, 0.f));
+	auto Map2Info = std::make_shared<FMapInfo<CStage1StaticTileMap2Object>>(FVector2(1586.f, 0.f));
 	
-	StartMap0Info->ConnectMap(
+	Map0Info->ConnectMap(
 		EMapMoveDirection::Up,
-		StartMap1Info->ConnectMap(
+		Map1Info->ConnectMap(
 			EMapMoveDirection::Up,
-			StartMap2Info
+			Map2Info
 		)
 	);
 	
-	mMapInfos.push_back(StartMap0Info);
-	mMapInfos.push_back(StartMap1Info);
-	mMapInfos.push_back(StartMap2Info);
-	mCurMapInfo = StartMap0Info;
+	mMapInfos.push_back(Map0Info);
+	mMapInfos.push_back(Map1Info);
+	mMapInfos.push_back(Map2Info);
+	mCurMapInfo = Map0Info;
 
 	return true;
 }

@@ -1,5 +1,7 @@
 # Visual C++ cache files
 ipch/
+.vs/
+Obj/
 
 Binary/P_Celeste_Debug.pdb
 Engine/Binary/GameEngine.lib

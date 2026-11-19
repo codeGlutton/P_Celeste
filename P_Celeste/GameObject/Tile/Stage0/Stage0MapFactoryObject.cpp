@@ -29,27 +29,27 @@ bool CStage0MapFactoryObject::InitMapInfos()
 
 	mParallZeroPos = FVector3(RS.Width * 0.5f, RS.Height * 0.5f, 0.f);
 
-	auto StartMap0Info = std::make_shared<FMapInfo<CStage0StaticTileMap0Object>>(FVector2(0.f, 0.f));
-	auto StartMap1Info = std::make_shared<FMapInfo<CStage0StaticTileMap1Object>>(FVector2(0.f, 0.f));
-	auto StartMap2Info = std::make_shared<FMapInfo<CStage0StaticTileMap2Object>>(FVector2(0.f, 260.f));
-	auto StartMap3Info = std::make_shared<FMapInfo<CStage0StaticTileMap3Object>>(FVector2(0.f, 260.f));
+	auto Map0Info = std::make_shared<FMapInfo<CStage0StaticTileMap0Object>>(FVector2(0.f, 0.f));
+	auto Map1Info = std::make_shared<FMapInfo<CStage0StaticTileMap1Object>>(FVector2(0.f, 0.f));
+	auto Map2Info = std::make_shared<FMapInfo<CStage0StaticTileMap2Object>>(FVector2(0.f, 260.f));
+	auto Map3Info = std::make_shared<FMapInfo<CStage0StaticTileMap3Object>>(FVector2(0.f, 260.f));
 	
-	StartMap0Info->ConnectMap(
+	Map0Info->ConnectMap(
 		EMapMoveDirection::Right, 
-		StartMap1Info->ConnectMap(
+		Map1Info->ConnectMap(
 			EMapMoveDirection::Right,
-			StartMap2Info->ConnectMap(
+			Map2Info->ConnectMap(
 				EMapMoveDirection::Right,
-				StartMap3Info
+				Map3Info
 			)
 		)
 	);
 
-	mMapInfos.push_back(StartMap0Info);
-	mMapInfos.push_back(StartMap1Info);
-	mMapInfos.push_back(StartMap2Info);
-	mMapInfos.push_back(StartMap3Info);
-	mCurMapInfo = StartMap0Info;
+	mMapInfos.push_back(Map0Info);
+	mMapInfos.push_back(Map1Info);
+	mMapInfos.push_back(Map2Info);
+	mMapInfos.push_back(Map3Info);
+	mCurMapInfo = Map0Info;
 
 	return true;
 }
