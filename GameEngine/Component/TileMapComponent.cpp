@@ -564,19 +564,16 @@ void CTileMapComponent::Update(float DeltaTime)
 
 void CTileMapComponent::PostUpdate(float DeltaTime)
 {
-	FVector3	Center;
+	FVector3 Center;
 
 	std::shared_ptr<CWorld> World = mWorld.lock();
 	std::shared_ptr<CTileMapRender> Render = mTileMapRender.lock();
-
 	if (!World || !Render)
 	{
 		World = CWorldManager::GetInst()->GetWorld().lock();
 	}
 
 	Center = World->GetCameraManager().lock()->GetMainCameraWorldPos();
-
-	// 타일맵 시작점으로부터 상대적인 위치를 구한다.
 	Center -= Render->GetWorldPos();
 
 	FResolution	RS = CDevice::GetInst()->GetResolution();
@@ -587,15 +584,11 @@ void CTileMapComponent::PostUpdate(float DeltaTime)
 	switch (mShape)
 	{
 	case Rect:
-		mViewStartX = (int)((Center.x - RS.Width * 0.5f * ZoomRate) /
-			mTileSize.x);
-		mViewStartY = (int)((Center.y - RS.Height * 0.5f * ZoomRate) /
-			mTileSize.y);
+		mViewStartX = (int)((Center.x - RS.Width * 0.5f * ZoomRate) / mTileSize.x);
+		mViewStartY = (int)((Center.y - RS.Height * 0.5f * ZoomRate) / mTileSize.y);
 
-		mViewEndX = (int)((Center.x + RS.Width * 0.5f * ZoomRate) /
-			mTileSize.x);
-		mViewEndY = (int)((Center.y + RS.Height * 0.5f * ZoomRate) /
-			mTileSize.y);
+		mViewEndX = (int)((Center.x + RS.Width * 0.5f * ZoomRate) / mTileSize.x);
+		mViewEndY = (int)((Center.y + RS.Height * 0.5f * ZoomRate) / mTileSize.y);
 		break;
 	case Isometric:
 	{
@@ -644,7 +637,7 @@ void CTileMapComponent::PostUpdate(float DeltaTime)
 	mInstancingCount = 0;
 	mLineInstancingCount = 0;
 
-	// 인스턴싱 정보를 만든다.
+	/* 인스턴싱 데이터 제작 */
 	for (int i = mViewStartY; i <= mViewEndY; ++i)
 	{
 		for (int j = mViewStartX; j <= mViewEndX; ++j)
