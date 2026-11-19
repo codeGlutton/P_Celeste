@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "../EngineInfo.h"
 #include "../UI/MouseWidget.h"
@@ -83,6 +83,7 @@ public:
 		const std::weak_ptr<class CSceneComponent>& Component);
 	void ClearRenderLayer(int RenderLayer);
 	void ClearRenderInstancing();
+	size_t GetRenderComponentCount() const;
 
 public:
 	void AddBlendRenderTargetDesc(const std::string& Name,

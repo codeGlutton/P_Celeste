@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "Object/GameObject.h"
 #include "GameObject/Tile/MapInfo.h"
@@ -40,6 +40,10 @@ public:
 	void RespawnTargetObject() const;
 
 public:
+	// true: 주변 9구역(현재+인접 8방향)만 객체화, false: 전체 구역 일괄 객체화
+	static constexpr bool mEnableZoneStreaming = true;
+
+public:
 	const std::weak_ptr<FMapInfoBase>& GetCurTileMapInfo() const
 	{
 		return mCurMapInfo;
@@ -47,6 +51,11 @@ public:
 	const std::weak_ptr<CGameObject>& GetTargetObject() const
 	{
 		return mTargetObject;
+	}
+	int32 GetActiveZoneCount() const;
+	int32 GetTotalZoneCount() const
+	{
+		return static_cast<int32>(mMapInfos.size());
 	}
 
 protected:

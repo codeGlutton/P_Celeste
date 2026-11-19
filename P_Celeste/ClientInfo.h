@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #define ASSERT_MSG(expr, msg) assert((expr) && (msg))
 
@@ -51,6 +51,7 @@ enum class EWorldType
 	Loading,
 	MainStage0,
 	MainStage1,
+	DummyStage,
 	Editor
 };
 

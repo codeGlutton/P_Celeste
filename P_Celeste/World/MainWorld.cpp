@@ -1,4 +1,4 @@
-﻿#include "Pch.h"
+#include "Pch.h"
 #include "MainWorld.h"
 
 #include "Asset/AssetManager.h"
@@ -12,6 +12,7 @@
 
 #include "Animation/HairMetaData.h"
 #include "TitleWorld.h"
+#include "UI/Main/PerfOverlayWidget.h"
 
 CMainWorld::CMainWorld()
 {
@@ -157,6 +158,9 @@ void CMainWorld::LoadSound()
 
 void CMainWorld::CreateUI()
 {
+#ifdef _DEBUG
+	mUIManager->CreateWidget<CPerfOverlayWidget>("PerfOverlayWidget", 100);
+#endif // _DEBUG
 }
 
 void CMainWorld::LoadPlayerAnimation2D(const int32 FileOffset, const int32 FileCount, const std::string& AnimName, const TCHAR* AnimFileNameFormat)

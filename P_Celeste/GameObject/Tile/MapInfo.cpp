@@ -1,6 +1,8 @@
 ﻿#include "Pch.h"
 #include "MapInfo.h"
 
+#include <queue>
+
 #include "GameObject/Tile/StaticTileMapObject.h"
 
 int32 FMapInfoBase::mMapMaxIndex = 0;
@@ -14,7 +16,7 @@ std::shared_ptr<FMapInfoBase> FMapInfoBase::ConnectMap(EMapMoveDirection::Type C
 	return SelfInfo;
 }
 
-void FMapInfoBase::StartMap(std::shared_ptr<CWorld>& World, const FVector3& Pos)
+void FMapInfoBase::StartMap(std::shared_ptr<CWorld>& World, const FVector3& Pos, bool EnableZoneStreaming)
 {
 	std::shared_ptr<CStaticTileMapObject> SpawnedMap = SpawnMap(World);
 	if (SpawnedMap == nullptr)
@@ -23,22 +25,73 @@ void FMapInfoBase::StartMap(std::shared_ptr<CWorld>& World, const FVector3& Pos)
 	}
 	SpawnedMap->SetWorldPos(Pos + mSpawnOffset);
 
-	for (uint8 i = 0; i < EMapMoveDirection::Count; ++i)
+	if (EnableZoneStreaming)
 	{
-		std::shared_ptr<FMapInfoBase> MapInfo = mNextMapInfos[i].lock();
-		if (MapInfo == nullptr)
+		// 스트리밍 ON: 현재 구역 기준 인접 8방향 구역만 스폰
+		for (uint8 i = 0; i < EMapMoveDirection::Count; ++i)
 		{
-			continue;
-		}
+			std::shared_ptr<FMapInfoBase> MapInfo = mNextMapInfos[i].lock();
+			if (MapInfo == nullptr)
+			{
+				continue;
+			}
 
-		std::shared_ptr<CStaticTileMapObject> MoveNearByMap = MapInfo->SpawnMap(World);
-		FVector3 MoveNearByMapPos = FindMapSpawnPos(
-			SpawnedMap->GetWorldPos() - mSpawnOffset,
-			SpawnedMap->GetTileMapMaxSize(),
-			MoveNearByMap->GetTileMapMaxSize(),
-			static_cast<EMapMoveDirection::Type>(i)
-		);
-		MoveNearByMap->SetWorldPos(MoveNearByMapPos + MapInfo->mSpawnOffset);
+			std::shared_ptr<CStaticTileMapObject> MoveNearByMap = MapInfo->SpawnMap(World);
+			FVector3 MoveNearByMapPos = FindMapSpawnPos(
+				SpawnedMap->GetWorldPos() - mSpawnOffset,
+				SpawnedMap->GetTileMapMaxSize(),
+				MoveNearByMap->GetTileMapMaxSize(),
+				static_cast<EMapMoveDirection::Type>(i)
+			);
+			MoveNearByMap->SetWorldPos(MoveNearByMapPos + MapInfo->mSpawnOffset);
+		}
+	}
+	else
+	{
+		// 스트리밍 OFF: 연결된 모든 구역을 BFS로 순회하며 일괄 스폰
+		std::unordered_set<FMapInfoBase*> Visited;
+		std::queue<std::shared_ptr<FMapInfoBase>> Queue;
+
+		std::shared_ptr<FMapInfoBase> StartInfo = shared_from_this();
+		Visited.insert(StartInfo.get());
+		Queue.push(StartInfo);
+
+		while (!Queue.empty())
+		{
+			std::shared_ptr<FMapInfoBase> CurInfo = Queue.front();
+			Queue.pop();
+
+			std::shared_ptr<CStaticTileMapObject> CurMap = CurInfo->mSpawnedMap.lock();
+			if (CurMap == nullptr)
+			{
+				continue;
+			}
+
+			for (uint8 i = 0; i < EMapMoveDirection::Count; ++i)
+			{
+				std::shared_ptr<FMapInfoBase> NextInfo = CurInfo->mNextMapInfos[i].lock();
+				if (NextInfo == nullptr || Visited.find(NextInfo.get()) != Visited.end())
+				{
+					continue;
+				}
+
+				Visited.insert(NextInfo.get());
+
+				std::shared_ptr<CStaticTileMapObject> NextMap = NextInfo->SpawnMap(World);
+				if (NextMap != nullptr)
+				{
+					FVector3 NextMapPos = FindMapSpawnPos(
+						CurMap->GetWorldPos() - CurInfo->mSpawnOffset,
+						CurMap->GetTileMapMaxSize(),
+						NextMap->GetTileMapMaxSize(),
+						static_cast<EMapMoveDirection::Type>(i)
+					);
+					NextMap->SetWorldPos(NextMapPos + NextInfo->mSpawnOffset);
+				}
+
+				Queue.push(NextInfo);
+			}
+		}
 	}
 
 	/* 이벤트 */
@@ -49,7 +102,7 @@ void FMapInfoBase::StartMap(std::shared_ptr<CWorld>& World, const FVector3& Pos)
 	}
 }
 
-std::shared_ptr<FMapInfoBase> FMapInfoBase::MoveMap(std::shared_ptr<CWorld>& World, EMapMoveDirection::Type MoveDir)
+std::shared_ptr<FMapInfoBase> FMapInfoBase::MoveMap(std::shared_ptr<CWorld>& World, EMapMoveDirection::Type MoveDir, bool EnableZoneStreaming)
 {
 	std::shared_ptr<CStaticTileMapObject> SpawnedMap = mSpawnedMap.lock();
 	if (SpawnedMap == nullptr)
@@ -65,48 +118,51 @@ std::shared_ptr<FMapInfoBase> FMapInfoBase::MoveMap(std::shared_ptr<CWorld>& Wor
 
 	SpawnedMap->SaveMapRuntimeData(mMapRuntimeData);
 
-	/* 제거될 맵 필터링 및 다음 근처 맵 생성 */
-
-	std::unordered_set<FMapInfoBase*> DestroyMaps;
-	for (auto& CurNearByMapInfo : this->mNextMapInfos)
-	{
-		std::shared_ptr<FMapInfoBase> MapInfo = CurNearByMapInfo.lock();
-		if (MapInfo == nullptr)
-		{
-			continue;
-		}
-		DestroyMaps.insert(MapInfo.get());
-	}
-	DestroyMaps.erase(MoveMapInfo.get());
-
 	std::shared_ptr<CStaticTileMapObject> MoveSpawnMap = MoveMapInfo->mSpawnedMap.lock();
-	for (uint8 i = 0; i < EMapMoveDirection::Count; ++i)
+	if (EnableZoneStreaming)
 	{
-		std::shared_ptr<FMapInfoBase> MoveNearByMapInfo = MoveMapInfo->mNextMapInfos[i].lock();
-		if (MoveNearByMapInfo == nullptr)
+		/* 제거될 맵 필터링 및 다음 근처 맵 생성 */
+
+		std::unordered_set<FMapInfoBase*> DestroyMaps;
+		for (auto& CurNearByMapInfo : this->mNextMapInfos)
 		{
-			continue;
+			std::shared_ptr<FMapInfoBase> MapInfo = CurNearByMapInfo.lock();
+			if (MapInfo == nullptr)
+			{
+				continue;
+			}
+			DestroyMaps.insert(MapInfo.get());
+		}
+		DestroyMaps.erase(MoveMapInfo.get());
+
+		for (uint8 i = 0; i < EMapMoveDirection::Count; ++i)
+		{
+			std::shared_ptr<FMapInfoBase> MoveNearByMapInfo = MoveMapInfo->mNextMapInfos[i].lock();
+			if (MoveNearByMapInfo == nullptr)
+			{
+				continue;
+			}
+
+			DestroyMaps.erase(MoveNearByMapInfo.get());
+			if (MoveNearByMapInfo->mSpawnedMap.lock() == nullptr)
+			{
+				std::shared_ptr<CStaticTileMapObject> MoveNearByMap = MoveNearByMapInfo->SpawnMap(World);
+				FVector3 MoveNearByMapPos = FindMapSpawnPos(
+					MoveSpawnMap->GetWorldPos() - MoveMapInfo->mSpawnOffset,
+					MoveSpawnMap->GetTileMapMaxSize(),
+					MoveNearByMap->GetTileMapMaxSize(),
+					static_cast<EMapMoveDirection::Type>(i)
+				);
+				MoveNearByMap->SetWorldPos(MoveNearByMapPos + MoveNearByMapInfo->mSpawnOffset);
+			}
 		}
 
-		DestroyMaps.erase(MoveNearByMapInfo.get());
-		if (MoveNearByMapInfo->mSpawnedMap.lock() == nullptr)
+		/* 맵 제거 */
+
+		for (auto& DestroyMap : DestroyMaps)
 		{
-			std::shared_ptr<CStaticTileMapObject> MoveNearByMap = MoveNearByMapInfo->SpawnMap(World);
-			FVector3 MoveNearByMapPos = FindMapSpawnPos(
-				MoveSpawnMap->GetWorldPos() - MoveMapInfo->mSpawnOffset,
-				MoveSpawnMap->GetTileMapMaxSize(),
-				MoveNearByMap->GetTileMapMaxSize(),
-				static_cast<EMapMoveDirection::Type>(i)
-			);
-			MoveNearByMap->SetWorldPos(MoveNearByMapPos + MoveNearByMapInfo->mSpawnOffset);
+			DestroyMap->DestroyMap();
 		}
-	}
-
-	/* 맵 제거 */
-
-	for (auto& DestroyMap : DestroyMaps)
-	{
-		DestroyMap->DestroyMap();
 	}
 
 	/* 이벤트 */
@@ -115,9 +171,12 @@ std::shared_ptr<FMapInfoBase> FMapInfoBase::MoveMap(std::shared_ptr<CWorld>& Wor
 	{
 		Event();
 	}
-	for (auto& Event : MoveSpawnMap->mOnEnterMap)
+	if (MoveSpawnMap != nullptr)
 	{
-		Event();
+		for (auto& Event : MoveSpawnMap->mOnEnterMap)
+		{
+			Event();
+		}
 	}
 
 	return MoveMapInfo;
@@ -186,12 +245,15 @@ void FMapInfoBase::DestroyMap()
 	std::shared_ptr<CStaticTileMapObject> TileMapObject = mSpawnedMap.lock();
 	if (TileMapObject == nullptr)
 	{
-		if (mMapRuntimeData == nullptr)
-		{
-			mMapRuntimeData = CreateMapRuntimeData();
-		}
-		TileMapObject->SaveMapRuntimeData(mMapRuntimeData);
+		mSpawnedMap.reset();
+		return;
 	}
+
+	if (mMapRuntimeData == nullptr)
+	{
+		mMapRuntimeData = CreateMapRuntimeData();
+	}
+	TileMapObject->SaveMapRuntimeData(mMapRuntimeData);
 	TileMapObject->Destroy();
 	mSpawnedMap.reset();
 }

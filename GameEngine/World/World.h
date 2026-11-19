@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "../EngineInfo.h"
 #include "../Object/GameObject.h"
@@ -48,6 +48,11 @@ public:
 	std::weak_ptr<CWorldUIManager> GetUIManager()	const
 	{
 		return mUIManager;
+	}
+
+	size_t GetAliveObjectCount()	const
+	{
+		return mObjList.size();
 	}
 
 public:

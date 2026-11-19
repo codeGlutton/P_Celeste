@@ -1,4 +1,4 @@
-﻿#include "RenderManager.h"
+#include "RenderManager.h"
 #include "BlendState.h"
 #include "DepthStencilState.h"
 #include "../Component/SceneComponent.h"
@@ -802,4 +802,14 @@ void CRenderManager::CheckInstancing(
 	}
 
 	Instancing->AddRenderList(Com);
+}
+
+size_t CRenderManager::GetRenderComponentCount() const
+{
+	size_t Count = 0;
+	for (const auto& LayerPair : mRenderLayerMap)
+	{
+		Count += LayerPair.second.RenderList.size();
+	}
+	return Count;
 }

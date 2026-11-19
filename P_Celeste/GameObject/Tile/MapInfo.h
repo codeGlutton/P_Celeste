@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "World/World.h"
 
@@ -72,8 +72,13 @@ public:
 
 public:
 	std::shared_ptr<FMapInfoBase> ConnectMap(EMapMoveDirection::Type ConnectDir, std::shared_ptr<FMapInfoBase> MapInfo);
-	void StartMap(std::shared_ptr<CWorld>& World, const FVector3& Pos);
-	std::shared_ptr<FMapInfoBase> MoveMap(std::shared_ptr<CWorld>& World, EMapMoveDirection::Type MoveDir);
+	void StartMap(std::shared_ptr<CWorld>& World, const FVector3& Pos, bool EnableZoneStreaming = true);
+	std::shared_ptr<FMapInfoBase> MoveMap(std::shared_ptr<CWorld>& World, EMapMoveDirection::Type MoveDir, bool EnableZoneStreaming = true);
+
+	bool IsSpawned() const
+	{
+		return !mSpawnedMap.expired();
+	}
 
 public:
 	bool IsInCurTileMap(const FVector2& Pos) const;

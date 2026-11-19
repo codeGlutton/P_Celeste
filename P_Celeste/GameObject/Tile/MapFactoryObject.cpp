@@ -1,5 +1,6 @@
-﻿#include "Pch.h"
+#include "Pch.h"
 #include "MapFactoryObject.h"
+#include "Profiler.h"
 
 #include "GameObject/Tile/StaticTileMapObject.h"
 
@@ -45,7 +46,8 @@ bool CMapFactoryObject::Init()
 		return false;
 	}
 
-	StartMapInfo->StartMap(World, GetWorldPos());
+	StartMapInfo->StartMap(World, GetWorldPos(), mEnableZoneStreaming);
+	CProfiler::SetZoneInfo(GetActiveZoneCount(), GetTotalZoneCount(), mEnableZoneStreaming);
 	return true;
 }
 
@@ -65,7 +67,10 @@ void CMapFactoryObject::Update(float DeltaTime)
 	if (CurMapInfo->IsInCurTileMap(TargetWorldPos, OUT OutDir) == false)
 	{
 		std::shared_ptr<CWorld> World = mWorld.lock();
-		mCurMapInfo = CurMapInfo->MoveMap(World, OutDir);
+		{
+			FScopeProfileTimer MoveTimer(EProfileSection::MoveMap);
+			mCurMapInfo = CurMapInfo->MoveMap(World, OutDir, mEnableZoneStreaming);
+		}
 		mLastMoveDir = EMapMoveDirection::ReverseType(OutDir);
 
 		for (auto& Event : mOnChangeMap)
@@ -73,6 +78,8 @@ void CMapFactoryObject::Update(float DeltaTime)
 			Event();
 		}
 	}
+
+	CProfiler::SetZoneInfo(GetActiveZoneCount(), GetTotalZoneCount(), mEnableZoneStreaming);
 }
 
 void CMapFactoryObject::PostUpdate(float DeltaTime)
@@ -128,6 +135,19 @@ void CMapFactoryObject::RespawnTargetObject() const
 		return;
 	}
 	CurMapInfo->RespawnTargetObject(mLastMoveDir, mTargetObject);
+}
+
+int32 CMapFactoryObject::GetActiveZoneCount() const
+{
+	int32 Count = 0;
+	for (const std::shared_ptr<FMapInfoBase>& MapInfo : mMapInfos)
+	{
+		if (MapInfo != nullptr && MapInfo->IsSpawned())
+		{
+			++Count;
+		}
+	}
+	return Count;
 }
 
 bool CMapFactoryObject::InitSimpleBackground(int32 IndexX, int32 IndexY, const FVector3& BaseWorldPos, const FVector3& WorldScale, const std::string& RenderLayer, const std::string& TextureName, const FVector2& ParallaxScrollRate)

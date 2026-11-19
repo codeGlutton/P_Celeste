@@ -1,5 +1,6 @@
-﻿#include "Engine.h"
+#include "Engine.h"
 #include "Timer.h"
+#include "Profiler.h"
 #include "Device.h"
 #include "World/WorldManager.h"
 #include "Asset/AssetManager.h"
@@ -98,6 +99,7 @@ bool CEngine::Init(HINSTANCE hInst, const TCHAR* WindowName,
 
     // 타이머 초기화
     CTimer::Init();
+    CProfiler::Init();
 
     if (!CRewardManager::GetInst()->Init())
         return false;
@@ -148,13 +150,30 @@ void CEngine::Logic()
 {
     float DeltaTime = CTimer::Update(mhWnd);
 
+    CProfiler::BeginFrame();
+
     if (Update(DeltaTime))
+    {
+        CProfiler::EndFrame();
         return;
+    }
 
     CAssetManager::GetInst()->Update();
-    CRenderManager::GetInst()->Update(DeltaTime);
 
-    Render();
+    {
+        FScopeProfileTimer RenderTimer(EProfileSection::Render);
+        CRenderManager::GetInst()->Update(DeltaTime);
+
+        Render();
+    }
+
+    std::shared_ptr<CWorld> CurWorld = CWorldManager::GetInst()->GetWorld().lock();
+    const size_t ObjCount = CurWorld ? CurWorld->GetAliveObjectCount() : 0;
+    const size_t ColCount = (CurWorld && !CurWorld->GetCollision().expired()) ? CurWorld->GetCollision().lock()->GetColliderCount() : 0;
+    const size_t RenderCount = CRenderManager::GetInst()->GetRenderComponentCount();
+    CProfiler::SetEntityCounters(ObjCount, ColCount, RenderCount);
+
+    CProfiler::EndFrame();
 }
 
 bool CEngine::Update(float DeltaTime)

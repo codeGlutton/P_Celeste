@@ -1,4 +1,4 @@
-﻿#include "Pch.h"
+#include "Pch.h"
 #include "WorldLoadThread.h"
 
 #include "World/WorldManager.h"
@@ -9,6 +9,7 @@
 
 #include "GameObject/Tile/Stage0/Stage0MapFactoryObject.h"
 #include "GameObject/Tile/Stage1/Stage1MapFactoryObject.h"
+#include "GameObject/Tile/Dummy/DummyMapFactoryObject.h"
 
 #include "Character/Player/Player.h"
 #include "Character/Player/TutorialPlayer.h"
@@ -38,6 +39,9 @@ void CWorldLoadThread::Run()
 		break;
 	case EWorldType::MainStage1:
 		CWorldManager::GetInst()->CreateAsyncWorld<CTileMainWorld<CStage1MapFactoryObject>>();
+		break;
+	case EWorldType::DummyStage:
+		CWorldManager::GetInst()->CreateAsyncWorld<CTileMainWorld<CDummyMapFactoryObject>>();
 		break;
 #ifdef _DEBUG
 	case EWorldType::Editor:

@@ -242,6 +242,7 @@
     <ClInclude Include="Object\GameObject.h" />
     <ClInclude Include="Object\RewardManager.h" />
     <ClInclude Include="Object\TileMapObject.h" />
+    <ClInclude Include="Profiler.h" />
     <ClInclude Include="Render\BlendState.h" />
     <ClInclude Include="Render\DepthStencilState.h" />
     <ClInclude Include="Render\TextGeometryCacheRenderer.h" />
@@ -357,6 +358,7 @@
     <ClCompile Include="Object\GameObject.cpp" />
     <ClCompile Include="Object\RewardManager.cpp" />
     <ClCompile Include="Object\TileMapObject.cpp" />
+    <ClCompile Include="Profiler.cpp" />
     <ClCompile Include="Render\BlendState.cpp" />
     <ClCompile Include="Render\DepthStencilState.cpp" />
     <ClCompile Include="Render\TextGeometryCacheRenderer.cpp" />

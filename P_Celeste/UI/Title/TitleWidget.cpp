@@ -1,4 +1,4 @@
-﻿#include "Pch.h"
+#include "Pch.h"
 #include "TitleWidget.h"
 
 #include "Engine.h"
@@ -48,6 +48,7 @@ bool CTitleWidget::Init()
 #ifdef _DEBUG
 
 	InitMainButton(RS, ZoomRate, ETitleButtonType::Editor, ButtonStartPos, &CTitleWidget::OnClickEditor, "T_MainEditorImage", TEXT("에디터"));
+	InitMainButton(RS, ZoomRate, ETitleButtonType::DummyStage, ButtonStartPos, &CTitleWidget::OnClickDummyStage, "T_MainEditorImage", TEXT("더미맵"));
 
 #endif // _DEBUG
 
@@ -87,6 +88,15 @@ void CTitleWidget::OnClickEditor()
 	mOnFinishScreenAnim = [this]() {
 		auto World = CWorldManager::GetInst()->CreateWorld<CLoadWorld>(true).lock();
 		World->Load(EWorldType::Editor);
+		};
+}
+
+void CTitleWidget::OnClickDummyStage()
+{
+	mScreenChangeType = ETitleScreenChangeType::Select;
+	mOnFinishScreenAnim = [this]() {
+		auto World = CWorldManager::GetInst()->CreateWorld<CLoadWorld>(true).lock();
+		World->Load(EWorldType::DummyStage);
 		};
 }
 

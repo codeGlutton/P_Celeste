@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "../EngineInfo.h"
 #include "CollisionQuadTree.h"
@@ -24,6 +24,11 @@ public:
 		mInterval = Interval;
 	}
 	void AddCollider(const std::weak_ptr<class CCollider>& Collider);
+
+	size_t GetColliderCount()	const
+	{
+		return mColliderList.size();
+	}
 
 public:
 	bool Init();

@@ -207,6 +207,8 @@
     <ClInclude Include="GameObject\Mesh\OneTimeDropMapObject.h" />
     <ClInclude Include="GameObject\Mesh\SpringMapObject.h" />
     <ClInclude Include="GameObject\Mesh\TriggerOneTimeDropMapObject.h" />
+    <ClInclude Include="GameObject\Tile\Dummy\DummyMapFactoryObject.h" />
+    <ClInclude Include="GameObject\Tile\Dummy\DummyStaticTileMapObject.h" />
     <ClInclude Include="GameObject\Tile\DynamicTileMapObject.h" />
     <ClInclude Include="GameObject\Tile\LayeredTileMapObject.h" />
     <ClInclude Include="GameObject\Tile\MapFactoryObject.h" />
@@ -248,6 +250,7 @@
     <ClInclude Include="UI\Editor\TileLayerEditorWidget.h" />
     <ClInclude Include="UI\Load\LoadWidget.h" />
     <ClInclude Include="UI\Main\DialogueWidget.h" />
+    <ClInclude Include="UI\Main\PerfOverlayWidget.h" />
     <ClInclude Include="UI\Main\ScreenSwapWidget.h" />
     <ClInclude Include="UI\Main\SimpleTalkWidget.h" />
     <ClInclude Include="UI\Main\SoliloquyWidget.h" />
@@ -294,6 +297,8 @@
     <ClCompile Include="GameObject\Mesh\OneTimeDropMapObject.cpp" />
     <ClCompile Include="GameObject\Mesh\SpringMapObject.cpp" />
     <ClCompile Include="GameObject\Mesh\TriggerOneTimeDropMapObject.cpp" />
+    <ClCompile Include="GameObject\Tile\Dummy\DummyMapFactoryObject.cpp" />
+    <ClCompile Include="GameObject\Tile\Dummy\DummyStaticTileMapObject.cpp" />
     <ClCompile Include="GameObject\Tile\DynamicTileMapObject.cpp" />
     <ClCompile Include="GameObject\Tile\LayeredTileMapObject.cpp" />
     <ClCompile Include="GameObject\Tile\MapFactoryObject.cpp" />
@@ -340,6 +345,7 @@
     <ClCompile Include="UI\Editor\TileLayerEditorWidget.cpp" />
     <ClCompile Include="UI\Load\LoadWidget.cpp" />
     <ClCompile Include="UI\Main\DialogueWidget.cpp" />
+    <ClCompile Include="UI\Main\PerfOverlayWidget.cpp" />
     <ClCompile Include="UI\Main\ScreenSwapWidget.cpp" />
     <ClCompile Include="UI\Main\SimpleTalkWidget.cpp" />
     <ClCompile Include="UI\Main\SoliloquyWidget.cpp" />

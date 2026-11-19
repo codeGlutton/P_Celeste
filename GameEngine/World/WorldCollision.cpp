@@ -1,4 +1,5 @@
-﻿#include "WorldCollision.h"
+#include "WorldCollision.h"
+#include "../Profiler.h"
 #include "../Component/Collider.h"
 #include "../Component/ColliderSphere2D.h"
 #include "../Object/GameObject.h"
@@ -36,6 +37,8 @@ bool CWorldCollision::Init()
 
 void CWorldCollision::Update(float DeltaTime)
 {
+	FScopeProfileTimer ProfileTimer(EProfileSection::Collision);
+
 	/*if (mInterval > 0.f)
 	{
 		mIntervalTime += DeltaTime;

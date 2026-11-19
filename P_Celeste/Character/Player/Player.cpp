@@ -1,4 +1,4 @@
-﻿#include "Pch.h"
+#include "Pch.h"
 #include "Player.h"
 
 #include "Component/MeshComponent.h"
@@ -125,6 +125,17 @@ bool CPlayer::Init()
 void CPlayer::Begin()
 {
 	CCharacter::Begin();
+
+	// 전체 구역 일괄 스폰 시 3번째 구역 NPC 카메라가 먼저 등록되어도 플레이어 카메라가 메인 카메라가 되도록 보장
+	std::shared_ptr<CWorld> World = mWorld.lock();
+	if (World != nullptr && mCameraComponent != nullptr)
+	{
+		std::shared_ptr<CCameraManager> CameraMgr = World->GetCameraManager().lock();
+		if (CameraMgr != nullptr)
+		{
+			CameraMgr->ChangeMainCamera(mCameraComponent);
+		}
+	}
 }
 
 void CPlayer::Update(float DeltaTime)

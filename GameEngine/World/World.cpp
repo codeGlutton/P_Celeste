@@ -1,7 +1,8 @@
-﻿#include "World.h"
+#include "World.h"
 
 #include "../Component/CameraComponent.h"
 #include "../Render/RenderManager.h"
+#include "../Profiler.h"
 
 CWorld::CWorld()
 {
@@ -72,6 +73,8 @@ bool CWorld::Init()
 
 void CWorld::Update(float DeltaTime)
 {
+	FScopeProfileTimer ProfileTimer(EProfileSection::WorldUpdate);
+
 	Begin();
 
 	const float WorldDeltaTime = DeltaTime * mCurUpdateRate;
@@ -139,6 +142,8 @@ void CWorld::Update(float DeltaTime)
 
 void CWorld::PostUpdate(float DeltaTime)
 {
+	FScopeProfileTimer ProfileTimer(EProfileSection::WorldPostUpdate);
+
 	Begin();
 
 	const float WorldDeltaTime = DeltaTime * mCurUpdateRate;

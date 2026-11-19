@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 #include "UI/WidgetContainer.h"
 
@@ -24,6 +24,7 @@ namespace ETitleButtonType
 #ifdef _DEBUG
 
         Editor,
+        DummyStage,
 
 #endif // _DEBUG
 
@@ -50,6 +51,7 @@ public:
 private:
     void OnClickClimb();
     void OnClickEditor();
+    void OnClickDummyStage();
     void OnClickExit();
 
 private:
